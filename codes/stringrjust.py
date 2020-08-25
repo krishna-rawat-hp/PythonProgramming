@@ -1,4 +1,4 @@
-# String ljust method in python
+# String rjust method in python
 
 # Example-1 single parameter
 str = "krishna"

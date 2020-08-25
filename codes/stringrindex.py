@@ -1,4 +1,4 @@
-# String index method in python
+# String rindex method in python
 
 # Example-1 single parameter
 str1 = "Hello This is krishna kant rawat"
