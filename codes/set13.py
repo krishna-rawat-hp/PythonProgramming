@@ -10,4 +10,4 @@ print("Is set1 > set2: ",set1>set2) # True Since set1 is superset of set2
 print("Is set1 < set3: ",set1<set3) # False Since set1 is not a subset of set3
 
 # Example-3 set comparision with(==)
-print("Is set2 == set3: ",set2==set3) # True Since set2 is equivalant of set3 
+print("Is set2 == set3: ",set2==set3) # True Since set2 is equivalant of set3  
