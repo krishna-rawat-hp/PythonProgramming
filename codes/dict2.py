@@ -6,4 +6,4 @@ print("Printing data...........")
 
 print("Name: ",dict1['name'])
 print("Surname: ",dict1['surname'])
-print("Age: ",dict1['age'])
+print("Age: ",dict1['age']) 
