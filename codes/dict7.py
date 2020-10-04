@@ -10,6 +10,10 @@ for x in dict1:
 for x in dict1:
 	print(dict1[x])
 
-# example-3 iterate dictionary elements
+# Example-3 iterate dictionary elements by values() method
 for x in dict1.values():
+	print(x)
+
+# Example-4 iterate dictionary elements by items() method
+for x in dict1.items():
 	print(x)
