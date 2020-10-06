@@ -1,6 +1,6 @@
 # Python function
 
-# Example-1 sum of two numbers
+# Example-1 sum of two numbers with return
 def sumofnum():
 	a=10
 	b=20
