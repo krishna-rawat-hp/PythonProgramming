@@ -6,4 +6,4 @@ def sumofnum():
 	b=20
 	c=a+b
 	return c
-print("Sum of two numbers: ",sumofnum())
+print("Sum of two numbers: ",sumofnum()) 
