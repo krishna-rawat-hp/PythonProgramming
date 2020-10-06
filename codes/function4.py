@@ -1,4 +1,4 @@
-# Python funtion
+# Python function
 
 # Example-1 function with argument
 def paramfunc(name):
